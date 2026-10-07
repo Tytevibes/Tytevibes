@@ -5,6 +5,7 @@
   <img src="a-plus.png" alt="CompTIA A+ Certified" width="120">
 </p>
 
+
 I'm a cybersecurity student and U.S. Army veteran with a foundation in systems support, networking, and security fundamentals — CompTIA A+ and Network+ certified and currently preparing for Security+. I'm pursuing an A.S. in Cybersecurity and expanding my knowledge of Azure, Microsoft Defender, and Microsoft Sentinel while developing practical skills through home labs related to these areas of study.
 
 ---
