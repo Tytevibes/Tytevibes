@@ -2,7 +2,7 @@
 
 <p>
   <img src="network-plus.png" alt="CompTIA Network+ Certified" width="120">
-  <img src="a-plus.png" alt="CompTIA A+ Certified" width="120">
+  <img src="a-plus.png.png" alt="CompTIA A+ Certified" width="120">
 </p>
 
 
